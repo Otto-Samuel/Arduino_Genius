@@ -5,7 +5,7 @@
 
 
 <a align="center" p>
-  <img width="550" src='https://raw.githubusercontent.com/ottosamuel01/Arduino_genius/main/genius_game.png'>
+  <img width="550" src='https://raw.githubusercontent.com/Otto-Samuel/Arduino_Genius/main/genius_game.png'>
 </p>
 
 
