@@ -33,7 +33,7 @@
 Contribuições são bem-vindas! Se você encontrar problemas ou tiver ideias para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## 🧑‍💻 Autor
-Este projeto foi desenvolvido por [ottosamuel01] como um exemplo de aplicação prática do Arduino.
+Este projeto foi desenvolvido por [otto samuel](https://github.com/Otto-Samuel) como um exemplo de aplicação prática do Arduino.
 
 ## Licença 📜
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo `LICENSE` para mais detalhes.
