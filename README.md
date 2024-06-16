@@ -8,6 +8,7 @@
   <img width="550" src='https://raw.githubusercontent.com/Otto-Samuel/Arduino_Genius/main/genius_game.png'>
 </p>
 
+
 ## 🔹Componentes
 - Arduino Uno (ou equivalente)
 - 4 LEDs (cores opcionais)
